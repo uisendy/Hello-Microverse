@@ -3,7 +3,7 @@
 # Project Hello Microverse
 
 > Project Description.
-The first Repo created to learn Github Flow for understandng branching and it's advantages, pull request linters and the ability to submit a project for Code Review
+The first Repo created to learn Github Flow for understanding git branch and its advantages, pull request, linters and the ability to submit a project for Code Review
 
 
 ## Built With
