@@ -1,14 +1,13 @@
-body{
-    background-color: rgb(176, 206, 231);
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
+body {
+  background-color: rgb(176, 206, 231);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
 }
 
-.header1{
-  color: rgb(15, 50, 132); 
-  font-size: 100px; 
-  
+.header1 {
+  color: rgb(15, 50, 132);
+  font-size: 100px;
 }
